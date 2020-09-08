@@ -1,1 +1,1 @@
-temple run
+obstacle run
